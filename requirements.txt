@@ -1,5 +1,5 @@
 anyio==3.4.0
-#argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
+argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
 attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
@@ -61,7 +61,7 @@ pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
 pyrsistent @ file:///C:/ci/pyrsistent_1636093225342/work
 python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.3
-pywin32==302
+#pywin32==302
 pywinpty @ file:///C:/ci/pywinpty_1607419945780/work
 pyzmq @ file:///C:/ci/pyzmq_1638435148211/work
 scikit-learn==1.0.1
@@ -71,7 +71,7 @@ Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
 six @ file:///tmp/build/80754af9/six_1623709665295/work
 sklearn==0.0
 sniffio @ file:///C:/ci/sniffio_1614030527509/work
-terminado==0.9.4
+#terminado==0.9.4
 testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
 threadpoolctl==3.0.0
 tornado @ file:///C:/ci/tornado_1606924294691/work
